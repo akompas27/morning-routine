@@ -29,8 +29,8 @@
 
 #### Monday
 - [-] Woke up on time
-- [ ] Bible / quiet time
-- [ ] Workout
+- [-] Bible / quiet time
+- [ $] Workout
 - [ ] Got ready & started day
 
 #### Tuesday
