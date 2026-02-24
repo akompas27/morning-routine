@@ -28,7 +28,7 @@
 ### Week of: _Feb 24 – Mar 2, 2026_
 
 #### Monday
-- [ ] Woke up on time
+- [-] Woke up on time
 - [ ] Bible / quiet time
 - [ ] Workout
 - [ ] Got ready & started day
